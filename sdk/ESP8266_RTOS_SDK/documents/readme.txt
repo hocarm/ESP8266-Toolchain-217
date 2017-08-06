@@ -1,0 +1,1 @@
+To read html please starts from "index.html".
